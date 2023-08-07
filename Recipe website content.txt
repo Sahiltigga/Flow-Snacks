@@ -1,0 +1,52 @@
+References:-
+https://www.vegrecipesofindia.com/dal-makhani-restaurant-style-recipe/
+
+
+WEBSITE NAME:-(ideas)
+1.BHAJIS
+2.VEGORAMA
+3.STREETEATS
+4.SABJIBUZZ
+5.MIRCH MASALA
+6.RASTA BITES
+7.VEGUTSAV
+8.TUM TIKKA
+
+Slogan:-Recipes and Images
+
+
+Contents:-
+*Recipe glance(slideshow with photos and short description)
+1.Popular recipes to be displayed
+  -cooking time
+  -image
+  -bold headings
+  -about the cuisine in detail
+  -sorted recipes
+2.The recipe section
+  -brief description about the food item
+  -table of contents
+  -ingredients details- about why the particular ingredients are being used in the recipe
+  -step by step process of cooking with bullet points and images if possible
+  -expert tips and tricks(how to perfectly handle the items to make the most out of it)
+  -FAQ(simple questions like -alternate ingredient , why the recipe needs that amount of time,necessary items)
+  -quick overview of the recipe and details:-
+  -comment section
+3.About Section
+  -all the socials(connect with me)
+  -contact 
+  -meet the person(detail about the person who created the website)
+  -possible news letter
+4.Ingredients listing
+  -Bullet point listing
+  -quantity and usage
+  -checkbox(after the item is used checkbox will be ticked)
+
+
+
+The main about section:-
+1.Photo and name of the author/website builder.
+2.Design in a short glance
+
+
+  
