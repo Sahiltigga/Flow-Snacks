@@ -1,0 +1,12 @@
+#banner img{
+
+    width: 10%;
+    margin-left: 50px;
+
+}
+.photo img{
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 120px;
+    float: left;
+}
